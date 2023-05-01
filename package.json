@@ -1,0 +1,12 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.1",
+    "events": "^3.3.0",
+    "nodemon": "^2.0.22"
+  }
+}
